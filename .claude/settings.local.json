@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m src.cli:*)",
+      "Bash(find:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
