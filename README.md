@@ -311,10 +311,6 @@ Quantization can cause instability if misconfigured:
 - scipy: Additional linear algebra (optional)
 - scikit-learn: Dataset loading and batch PCA baseline (optional)
 
-## License
-
-MIT License
-
 ## Author
 
 Emrullah Erce Dutkan
